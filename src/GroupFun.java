@@ -9,6 +9,16 @@ public class GroupFun {
 	switch (toejForm) {
 	
 	case 1: stripGenstand = "Sokker";
+		break;
+	case 2: stripGenstand = "BH";
+		break;
+	
+	case 4: stripGenstand = "Trusser";
+		break;
+		
+	case 5: stripGenstand = "Blusen";
+		break;
+		
 	
 	
 	}
