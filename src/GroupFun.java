@@ -3,7 +3,7 @@ public class GroupFun {
 	public static void main(String[] args) {
 	
 	
-	int toejForm 8;
+	int toejForm = 5;
 	String stripGenstand;
 	
 	switch (toejForm) {
@@ -19,9 +19,10 @@ public class GroupFun {
 	case 5: stripGenstand = "Blusen";
 		break;
 		
+	}	
+	System.out.println(stripGenstand);
 	
-	
-	}
+
 	
 		
 		
