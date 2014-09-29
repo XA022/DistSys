@@ -12,7 +12,8 @@ public class GroupFun {
 		break;
 	case 2: stripGenstand = "BH";
 		break;
-	
+	case 3: stripGenstand = "Bukser";
+		break
 	case 4: stripGenstand = "Trusser";
 		break;
 		
