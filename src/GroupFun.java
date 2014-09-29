@@ -1,13 +1,18 @@
 
 public class GroupFun {
-
-	New ClothesOff = ClothesOff;
-	
-	
 	public static void main(String[] args) {
-		
-		if
-		
+	
+	
+	int toejForm 8;
+	String stripGenstand;
+	
+	switch (toejForm) {
+	
+	case 1: stripGenstand = "Sokker";
+	
+	
+	}
+	
 		
 		
 		// TODO Auto-generated method stub
