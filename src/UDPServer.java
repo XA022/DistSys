@@ -9,8 +9,11 @@ import java.net.*;
 			
 			// Creates bytes to receive and send data
 			byte[] receiveData = new byte[1024];             
-			byte[] sendData = new byte[1024];             
+			byte[] sendData = new byte[1024]; 
+			byte key = 7;
+			
 			//While loop to run the sequence
+			
 			while(true)                
 			{                
 				

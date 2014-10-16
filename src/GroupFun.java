@@ -4,7 +4,7 @@ public class GroupFun {
 	
 	
 	int toejForm = 5;
-	String stripGenstand;
+	String stripGenstand = null;
 	
 	switch (toejForm) {
 	
@@ -13,7 +13,7 @@ public class GroupFun {
 	case 2: stripGenstand = "BH";
 		break;
 	case 3: stripGenstand = "Bukser";
-		break
+		break;
 	case 4: stripGenstand = "Trusser";
 		break;
 		
@@ -21,7 +21,7 @@ public class GroupFun {
 		break;
 		
 	}	
-	System.out.println(stripGenstand);
+	System.out.println("Marie smider " + stripGenstand); 
 	
 
 	
